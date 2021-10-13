@@ -36,17 +36,16 @@
 
 ## 🎨 Layout <a id="layout"></a>
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="190" height="20" role="img" aria-label="Acesso ao Layout: Github Pages"><title>Acesso ao Layout:<a href="https://saulo-felipe.github.io/Futebol-One-Page/">Github Pages</a></title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="190" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="107" height="20" fill="#555"/><rect x="107" width="83" height="20" fill="#007ec6"/><rect width="190" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="545" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="970">Acesso ao Layout</text><text x="545" y="140" transform="scale(.1)" fill="#fff" textLength="970">Acesso ao Layout</text><text aria-hidden="true" x="1475" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="730">Github Pages</text><text x="1475" y="140" transform="scale(.1)" fill="#fff" textLength="730">Github Pages</text></g></svg>
-</a>
+<a href="https://saulo-felipe.github.io/Futebol-One-Page/"><img src="./imagens/badge.png"/></a>
 <p>*O Layout completo do site está disponível no Github Pages</p>
 
-<h2>Mobile (web)</h2>
+<h3>Mobile (web)</h3>
 <p align="center">
     <img src="imagens/mobile-01.png">
     <img src="imagens/mobile-02.png">
 </p>
 
-<h2>Desktop (web)</h2>
+<h3>Desktop (web)</h3>
 <img src="imagens/img02.png">
 <img src="imagens/img01.png">
 
@@ -69,7 +68,7 @@ $ git clone https://github.com/Saulo-Felipe/Futebol-One-Page.git
 
 Neste simples site, foram utilizado as seguintes tcnologias: 
 
-* Bootstrap <img src="./imagens/bootstrap.png"></img
+* Bootstrap <img src="./imagens/bootstrap.png"></img>
 * HTML5 <img src="./imagens/html5.png"></img>
 * CSS3 <img src="./imagens/css3.png"></img>
 * Javascript <img src="./imagens/javascript.png"></img>
